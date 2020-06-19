@@ -1,0 +1,84 @@
+################################
+## Java
+################################
+.mtj.tmp /
+*.lớp học
+* .jar
+* .war
+*.tai
+* .nar
+hs_err_pid *
+
+################################
+## Maven
+################################
+Mục tiêu/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.bak
+phát hành
+phụ thuộc-giảm-pom.xml
+buildNumber.properies
+.mvn / time.properies
+.mvn / trình bao bọc / maven-Wrapper.jar
+
+################################
+## Lớp
+################################
+thùng rác/
+xây dựng/
+. Nâng cấp
+.gradletasknamecache
+gradle-app.sding
+! gradle-Wrapper.jar
+
+################################
+## IntelliJ
+################################
+ngoài/
+.ý tưởng/
+.idea_modules /
+* .iml
+* .ipr
+*.
+
+################################
+## Nhật thực
+################################
+.cài đặt /
+thùng rác/
+tmp /
+.metadata
+. classpath
+.dự án
+* .tmp
+* .bak
+* .swp
+* ~ .nib
+địa phương
+.Đường tải
+.factorypath
+
+################################
+## NetBeans
+################################
+nbproject / private /
+xây dựng/
+nbbuild /
+quận/
+nbdist /
+nbilities.xml
+nb-configure.xml
+
+################################
+## Mã Visual Studio
+################################
+.vscode /
+.code-không gian làm việc
+
+################################
+## OS X
+################################
+.DS_Store
